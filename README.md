@@ -1,6 +1,6 @@
 # Identify Hate Speech in Malay-Language Tweets
 
-Data - 1,860 tweets in Malay language
+Data - 1,860 tweets in Malay language  
 Purpose - Build a machine learning model to identify tweets containing hate speech
 
 Hate_01_TFIDF.ipynb  
